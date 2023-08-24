@@ -1,0 +1,7 @@
+@import './base.css';
+
+*,
+*::before,
+*::after {
+  font-family: 'Poppins', sans-serif;
+}
